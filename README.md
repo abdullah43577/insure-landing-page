@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL here](https://your-solution-url.com)
-- Live Site URL: [live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL here](https://www.frontendmentor.io/solutions/responsive-insure-landing-page-built-using-html-css-and-javascript-kpAyMiYYIn)
+- Live Site URL: [live site URL here](https://insure-lpg.netlify.app/)
 
 ## My process
 
